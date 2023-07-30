@@ -1,0 +1,5 @@
+[versions]
+autonomous-apps-best-practices = "0.9"
+
+[plugins]
+autonomous-apps-best-practices = { id = "com.autonomousapps.plugin-best-practices-plugin", version.ref = "autonomous-apps-best-practices" }
